@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Mel
 
-- 🔭 Hoje trabalho com Suporte TI
-- 🌱 Estudando HTML, CSS e JS 
+- 🔭 Profissional iniciante em Dados 
+- 🌱 Conhecimento em SQL, PowerBI e Python 
 - ✉️ Contate-me no email: melromeualves@gmail.com
 
 <div style="display: inline_block"><br>
